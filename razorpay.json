@@ -1,0 +1,9 @@
+{
+    "RAZORPAYKEY" : "rzp_live_MqQql3dMCSed2s",
+    "RAZORPAYSECRET" : "3AdyzoWCn9ZkGzGguGWT6mGD",
+    "FREETRIALPERIOD" : 0,
+    "MONTHLYPLANPRICE" : 100000, 
+    "QUATERLYPLANPRICE" : 300000,
+    "SECRETWEBHOOK" : "PaymentCapturedSecretRazorPay@199899",
+    "FREETRIALSTATUS" : "FREETRIAL"
+}
